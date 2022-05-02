@@ -112,10 +112,3 @@ export default function PaymentHistory() {
 }
 
 
-//////////iiiiiiiiiii
-/////pppppppp
-llllllllll
-
-ppoooo
-llllllll
-lllllllll
